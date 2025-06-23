@@ -51,7 +51,7 @@ To avoid unauthorized copying and protect the integrity of future commercial use
 
 If you're a recruiter, employer, or collaborator and would like to see the full implementation or a walkthrough:
 📧 `charbel_zeito@hotmail.com`  
-🔗 [LinkedIn Profile][(https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/charbel-zeito-052456322/)
+🔗 [LinkedIn Profile]https://www.linkedin.com/in/charbel-zeito-052456322/
 
 ---
 
