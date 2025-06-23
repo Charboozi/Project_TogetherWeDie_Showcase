@@ -28,8 +28,10 @@ This repository serves as a **public showcase** of my work on `Together We die`.
 ## 📷 Screenshots / GIFs
 
 > 
+![CommunityHeader](https://github.com/user-attachments/assets/cb0ecc12-26cf-4caf-9508-2ffda2b73019)
+![Art](https://github.com/user-attachments/assets/353d429f-8080-4f9f-a5d9-11c33bd5efb9)
 
----
+
 
 ## 🧩 Architecture Overview
 
