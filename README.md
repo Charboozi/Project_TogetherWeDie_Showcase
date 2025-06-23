@@ -29,9 +29,10 @@ This repository serves as a **public showcase** of my work on `Together We die`.
 
 > 
 ![CommunityHeader](https://github.com/user-attachments/assets/cb0ecc12-26cf-4caf-9508-2ffda2b73019)
-![Art](https://github.com/user-attachments/assets/353d429f-8080-4f9f-a5d9-11c33bd5efb9)
 
+![COOP-ezgif com-optimize](https://github.com/user-attachments/assets/e7e75672-5ba9-4a61-82de-8255f127f29e)
 
+![HeaderCapsulePlaytest](https://github.com/user-attachments/assets/fd43031c-3246-40f2-a70a-f59773fab924)
 
 ## 🧩 Architecture Overview
 
