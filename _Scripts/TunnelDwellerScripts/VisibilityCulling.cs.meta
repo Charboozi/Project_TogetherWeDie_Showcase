@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfc522eb6058c4e50afcfbb838a9c31f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/VisibilityCulling.cs
+  uploadId: 744674

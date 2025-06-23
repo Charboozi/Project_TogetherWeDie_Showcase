@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 061b317ed46b7464ba2fb09256fc7904
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/CameraSpectating.cs
+  uploadId: 744674

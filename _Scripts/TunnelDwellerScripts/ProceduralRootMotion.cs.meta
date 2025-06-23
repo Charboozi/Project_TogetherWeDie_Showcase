@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 69ece4c3862544059804dfe52f9f2734
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/ProceduralRootMotion.cs
+  uploadId: 744674

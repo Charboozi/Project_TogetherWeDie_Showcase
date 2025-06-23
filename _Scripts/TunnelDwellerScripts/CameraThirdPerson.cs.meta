@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c4c0c8bd873f4acb91678a9aa725927
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/CameraThirdPerson.cs
+  uploadId: 744674

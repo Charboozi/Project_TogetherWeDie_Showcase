@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 310693fc8b5013e46a1daff44cc7fb55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/IKSolver.cs
+  uploadId: 744674

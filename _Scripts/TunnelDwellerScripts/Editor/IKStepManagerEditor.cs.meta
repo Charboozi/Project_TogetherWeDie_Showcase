@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8669ee4a7b6d34f2aa53344e9cb17c5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267789
+  packageName: Procedural Spider
+  packageVersion: 1.1.0
+  assetPath: Assets/ProceduralSpider/Scripts/Editor/IKStepManagerEditor.cs
+  uploadId: 744674
